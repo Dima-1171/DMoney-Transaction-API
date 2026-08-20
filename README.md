@@ -226,13 +226,25 @@ The test report is generated using **newman-reporter-htmlextra** and saved to `R
 
 ---
 
+---
+
+## 🚦 Project Status
+
+| Area | Status |
+|---|---|
+| **Development** | ✅ Complete |
+| **Test Coverage** | ✅ 29 Assertions Passing |
+| **Automation** | ✅ Newman CI-Ready |
+| **Reporting** | ✅ HTML Extra Report Generated |
+| **Known Failures** | 🟢 None |
+
+> 🎯 All end-to-end API test scenarios have been implemented and are passing successfully.
+
+---
+
 ## 👤 Author
 
 **Sazia Afrin Dima**
 QA Engineer | API Test Automation
 
----
 
-## 📝 License
-
-This project is licensed under the **ISC License**.
